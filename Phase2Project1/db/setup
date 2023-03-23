@@ -1,0 +1,11 @@
+use mydb;
+
+create table student (
+
+ 
+ lastname varchar(25),
+ firstname  varchar(255),
+  id int 
+ 
+);
+select * from students;
